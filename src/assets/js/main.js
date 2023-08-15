@@ -1,4 +1,4 @@
-(() => {
+document.addEventListener("DOMContentLoaded", function(_) {
   adjustToc();
   initFixedColumns();
   scrollSidebarIntoView();
